@@ -1,9 +1,13 @@
 h1{
+    text-align: center;
     background-color: palevioletred;
-    font-size: 40px;   
+    font-size: 40px; 
+    border-style: solid;  
+    color: black;
 }
 
 img{
-    size: 100px;
+    width: 150px;
+    height: 150px;
 }
 
